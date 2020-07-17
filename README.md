@@ -1,16 +1,17 @@
-### Hi there 👋
+# Victor Lopes :octocat:
 
-<!--
-**sirvaizard/sirvaizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-@sirvaizard-333333?style=flat-square&labelColor=fc0345&logo=twitter&logoColor=white&link=https://twitter.com/sirvaizard)](https://twitter.com/sirvaizard)
+[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Lopes-333333?style=flat-square&logo=Linkedin&labelColor=fc0345&logoColor=white&link=https://www.linkedin.com/in/victorflopes)](https://www.linkedin.com/in/victorflopes) 
+[![Gmail Badge](https://img.shields.io/badge/-thevictorfl@gmail.com-333333?style=flat-square&labelColor=fc0345&logo=Gmail&logoColor=white&link=mailto:thevictorfl@gmail.com)](mailto:thevictorfl@gmail.com)
 
-Here are some ideas to get you started:
+## hello, friend. :floppy_disk:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey there, how you doin'?   
+
+I'm Victor, currently graduating in Information Systems :book:   
+
+And diving into the Javascript & Typescritp world (Node, React, React Native) :swimmer:  
+\
+\
+\
+“The pursuit of knowledge, he maintained, was a worthy objective in its own right and needed no external validation.”
