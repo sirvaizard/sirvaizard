@@ -10,7 +10,7 @@ Hey there, how you doin'?
 
 I'm Victor, currently graduating in Information Systems :book:   
 
-And diving into the Javascript & Typescritp world (Node, React, React Native) :swimmer:  
+And diving into the Javascript & Typescript world (Node, React, React Native) :swimmer:  
 \
 \
 \
