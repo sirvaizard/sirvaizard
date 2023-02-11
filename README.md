@@ -5,11 +5,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-thevictorfl@gmail.com-333333?style=flat-square&labelColor=fc0345&logo=Gmail&logoColor=white&link=mailto:thevictorfl@gmail.com)](mailto:thevictorfl@gmail.com)
 
 ## hello, friend. :floppy_disk:
-
-Hey there, how you doin'?   
-
-I'm Victor, currently graduating in Information Systems :book:   
-\
-\
-\
-“The pursuit of knowledge, he maintained, was a worthy objective in its own right and needed no external validation.”
